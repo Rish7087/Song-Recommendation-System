@@ -9,7 +9,6 @@ Welcome to the Emotion Detection with Spotify Playlists project! This project co
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
